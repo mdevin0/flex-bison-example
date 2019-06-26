@@ -22,7 +22,7 @@
 "^"     {return T_POWER;}
 "("		{return T_LEFT;}
 ")"		{return T_RIGHT;}
-"exit"		{return T_QUIT;}
-"quit"		{return T_QUIT;}
-
+"exit"  {return T_QUIT;}
+"quit"	{return T_QUIT;}
+"x"		{return T_VAR;}
 %%

@@ -1,4 +1,5 @@
 A small example of a calculator written with flex / bison.
+Power and quadratic equation solver added.
 
 Compile using the `Makefile` 
 
